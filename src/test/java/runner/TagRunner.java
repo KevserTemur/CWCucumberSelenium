@@ -7,16 +7,10 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = {"src/test/resources/features/firstFeature.feature"},
-        glue = "stepdefinitions"
-
+        features ="src/test/resources/features",
+        glue = "stepdefinitions",
+        tags =  "@smoke",
+        dryRun = false
 )
-
-
-
-
-public class FirstRunner {
-
+public class TagRunner {
 }
-
-
