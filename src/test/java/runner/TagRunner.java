@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features ="src/test/resources/features",
         glue = "stepdefinitions",
-        tags =  "@smoke",
+        tags =  "@smoke or @regression",
         dryRun = false
 )
 public class TagRunner {
