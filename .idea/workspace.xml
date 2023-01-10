@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c424e39-4cd0-4857-a002-2045f3f76f6a" name="Changes" comment="cucumber">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/AmazonStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ParameterizedStepsDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/features/03_Background.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/features/04_ParameterizedSteps.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/features/05_ScenarioOutline.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/features/06_ScenarioOutlineExample.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GoogleSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GoogleSearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/GoogleStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/GoogleStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/07_Hooks.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +242,56 @@
       <option name="project" value="LOCAL" />
       <updated>1673338577925</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cucumber">
+      <created>1673379296232</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379296232</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cucumber">
+      <created>1673379308800</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379308800</updated>
+    </task>
+    <task id="LOCAL-00011" summary="cucumber">
+      <created>1673379318340</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379318340</updated>
+    </task>
+    <task id="LOCAL-00012" summary="cucumber">
+      <created>1673379329104</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379329104</updated>
+    </task>
+    <task id="LOCAL-00013" summary="cucumber">
+      <created>1673379338807</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379338807</updated>
+    </task>
+    <task id="LOCAL-00014" summary="cucumber">
+      <created>1673379350383</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379350383</updated>
+    </task>
+    <task id="LOCAL-00015" summary="cucumber">
+      <created>1673379361290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379361290</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
