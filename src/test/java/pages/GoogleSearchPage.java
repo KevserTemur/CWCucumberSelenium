@@ -17,7 +17,7 @@ public class GoogleSearchPage {
     }
 
     @FindBy(name="q")
-    private WebElement searchText;
+    public WebElement searchText;
 
     public void searchFor (String key){
 
