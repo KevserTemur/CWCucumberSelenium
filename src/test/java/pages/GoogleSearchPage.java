@@ -11,7 +11,7 @@ public class GoogleSearchPage {
 
     private  WebDriver driver;
 
-    public GoogleSearchPage(WebDriver driver) {
+    public GoogleSearchPage(WebDriver driver) { // constructor
         this.driver = driver;
         PageFactory.initElements(driver,this);
     }
