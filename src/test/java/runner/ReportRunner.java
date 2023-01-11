@@ -9,7 +9,9 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources/features/07_Hooks.feature"},
         glue = {"stepdefinitions", "hooks"},
-        plugin = {"html:target/cucumber-reports.html"}
+        plugin = {"html:target/cucumber-reports.html",
+        "json:target/cucumber-json.json",
+        "junit:target/cucumber-xml.xml"}
 )
 public class ReportRunner {
 
