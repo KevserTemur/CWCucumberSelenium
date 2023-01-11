@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c424e39-4cd0-4857-a002-2045f3f76f6a" name="Changes" comment="cucumber">
-      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/03_Background.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/04_ParameterizedSteps.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/05_ScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/06_ScenarioOutlineExample.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/07_Hooks.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/OrangeHRMLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ReportRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/OrangeHRMStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ParameterizedStepsExampleStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/04_ParameterizedStepsExample.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/08_DataTables.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GoogleSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GoogleSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TagRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TagRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Pc/IdeaProjects/CWCucumberSelenium/src/test/java/stepdefinitions",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pc/IdeaProjects/CWCucumberSelenium/src/test/java/stepdefinitions&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Gherkin"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Gherkin&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ReportRunner">
     <configuration name="Feature: 01_Tags" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/01_Tags.feature" />
@@ -145,7 +148,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TagRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReportRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CWCucumberSelenium" />
       <extension name="coverage">
         <pattern>
@@ -154,7 +157,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="runner" />
-      <option name="MAIN_CLASS_NAME" value="runner.TagRunner" />
+      <option name="MAIN_CLASS_NAME" value="runner.ReportRunner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,15 +168,15 @@
       <item itemvalue="Cucumber Java.Feature: 01_Tags" />
       <item itemvalue="Cucumber Java.Feature: 02_SeleniumTask" />
       <item itemvalue="Cucumber Java.Scenario: Google da bir kelime arandığında ilgili kelimeyi barındıran sonuçlar görüntülenmelidir" />
-      <item itemvalue="JUnit.TagRunner" />
+      <item itemvalue="JUnit.ReportRunner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReportRunner" />
         <item itemvalue="Cucumber Java.Feature: hw01" />
         <item itemvalue="Cucumber Java.Feature: 01_Tags" />
         <item itemvalue="Cucumber Java.Feature: 02_SeleniumTask" />
         <item itemvalue="Cucumber Java.Scenario: Google da bir kelime arandığında ilgili kelimeyi barındıran sonuçlar görüntülenmelidir" />
-        <item itemvalue="JUnit.TagRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +294,49 @@
       <option name="project" value="LOCAL" />
       <updated>1673379361290</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="cucumber">
+      <created>1673379939572</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673379939572</updated>
+    </task>
+    <task id="LOCAL-00017" summary="cucumber">
+      <created>1673421357103</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421357103</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cucumber">
+      <created>1673421401344</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421401344</updated>
+    </task>
+    <task id="LOCAL-00019" summary="cucumber">
+      <created>1673421433770</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421433770</updated>
+    </task>
+    <task id="LOCAL-00020" summary="cucumber">
+      <created>1673421444883</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421444883</updated>
+    </task>
+    <task id="LOCAL-00021" summary="cucumber">
+      <created>1673421455381</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421455381</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
