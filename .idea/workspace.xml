@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c424e39-4cd0-4857-a002-2045f3f76f6a" name="Changes" comment="cucumber">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/OrangeHRMLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ReportRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/OrangeHRMStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ParameterizedStepsExampleStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/features/04_ParameterizedStepsExample.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/features/08_DataTables.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GoogleSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GoogleSearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TagRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TagRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/ReportRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/ReportRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/ParameterizedStepsExampleStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/ParameterizedStepsExampleStepDefinitions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReportRunner">
+  <component name="RunManager">
     <configuration name="Feature: 01_Tags" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/01_Tags.feature" />
@@ -336,7 +334,49 @@
       <option name="project" value="LOCAL" />
       <updated>1673421455381</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="cucumber">
+      <created>1673464776143</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464776143</updated>
+    </task>
+    <task id="LOCAL-00023" summary="cucumber">
+      <created>1673464792787</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464792787</updated>
+    </task>
+    <task id="LOCAL-00024" summary="cucumber">
+      <created>1673464806574</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464806574</updated>
+    </task>
+    <task id="LOCAL-00025" summary="cucumber">
+      <created>1673464818036</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464818036</updated>
+    </task>
+    <task id="LOCAL-00026" summary="cucumber">
+      <created>1673464832204</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464832204</updated>
+    </task>
+    <task id="LOCAL-00027" summary="cucumber">
+      <created>1673464999894</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1673464999894</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
